@@ -12,6 +12,7 @@ Farklı yapay zekâ ve sezgisel optimizasyon algoritmaları kullanılarak sonuç
 - [🧩 Sistem Mimarisi](#sistem-mimarisi)
 - [⚙️ Kurulum](#kurulum)
 - [▶️ Kullanım](#kullanim)
+- [👥 Proje Ekibi](#-proje-ekibi)
 ---
 
 ## <a name="proje-hakkinda"></a>📖 Proje Hakkında
@@ -67,3 +68,17 @@ python main.py
 📊 QoS parametreleri girilir
 
 📈 Sonuçlar grafiksel olarak görüntülenir
+
+
+## <a name="proje-ekibi"></a>👥 Proje Ekibi
+
+- [Emin Abaz](https://github.com/eminabaz)
+- [Tuğçenur Araz](https://github.com/tugcearaz)
+- [Ela Sudem Gökdemir](https://github.com/ElaSudemGokdemir)
+- [Doğa Doğanay](https://github.com/dogadoganay)
+- [Menekşe Sena Melek](https://github.com/Sena1881)
+- [Mohammed Qatran](https://github.com/GF65-9)
+- [Mohammed Aboubaker](https://github.com/mohamedaaboubakeraboubaker-maker)
+- [Yiğit Sağ](https://github.com/yigitsag)
+
+🎓 **Akademik Danışman:** [Evrim Güler](https://github.com/evrimguler)
