@@ -12,8 +12,6 @@ Farklı yapay zekâ ve sezgisel optimizasyon algoritmaları kullanılarak sonuç
 - [🧩 Sistem Mimarisi](#sistem-mimarisi)
 - [⚙️ Kurulum](#kurulum)
 - [▶️ Kullanım](#kullanim)
-- [👥 Proje Ekibi](#proje-ekibi)
-
 ---
 
 ## <a name="proje-hakkinda"></a>📖 Proje Hakkında
