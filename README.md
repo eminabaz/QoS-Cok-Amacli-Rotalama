@@ -50,7 +50,7 @@ Proje üç ana katmandan oluşmaktadır:
 ## <a name="kurulum"></a>⚙️ Kurulum
 ```python
 git clone https://github.com/eminabaz/QoS-Cok-Amacli-Rotalama
-cd proje_adi
+cd /QoS-Cok-Amacli-Rotalama
 pip install -r requirements.txt
 ```
 
