@@ -20,6 +20,8 @@ Projede ağ yönlendirme problemi, **çok amaçlı optimizasyon** yaklaşımıyl
 Gecikme, bant genişliği, güvenilirlik ve maliyet gibi QoS metrikleri dikkate alınarak en uygun rota hesaplanmaktadır.  
 Kullanıcı, grafiksel arayüz üzerinden algoritma ve parametre seçimlerini yapabilmektedir.
 
+Proje kapsamında oluşturulan 250 düğümlü karmaşık ağ yapısının görselleştirilmesi ve algoritmaların performans analizlerinin tutarlılığı için "Seed" mekanizması kullanılmıştır.
+Kullanılan Değer: seed=42
 ---
 
 ## <a name="kullanilan-yontemler"></a>🧠 Kullanılan Yöntemler
@@ -72,13 +74,14 @@ python main.py
 
 ## <a name="proje-ekibi"></a>👥 Proje Ekibi
 
-- [Emin Abaz](https://github.com/eminabaz)
-- [Tuğçenur Araz](https://github.com/tugcearaz)
-- [Ela Sudem Gökdemir](https://github.com/ElaSudemGokdemir)
-- [Doğa Doğanay](https://github.com/dogadoganay)
-- [Menekşe Sena Melek](https://github.com/Sena1881)
-- [Mohammed Qatran](https://github.com/GF65-9)
-- [Mohammed Aboubaker](https://github.com/mohamedaaboubakeraboubaker-maker)
-- [Yiğit Sağ](https://github.com/yigitsag)
+- [Emin Abaz (Algoritma Geliştirme Ekibi)](https://github.com/eminabaz)
+- [Mohammed Qatran (Algoritma Geliştirme Ekibi)](https://github.com/GF65-9)
+- [Menekşe Sena Melek (Algoritma Geliştirme Ekibi)](https://github.com/Sena1881)
+- [Tuğçenur Araz (UI - UX Ekibi)](https://github.com/tugcearaz)
+- [Ela Sudem Gökdemir (UI - UX Ekibi)](https://github.com/ElaSudemGokdemir)
+- [Doğa Doğanay (Metrik Hesaplama Ekibi)](https://github.com/dogadoganay)
+- [Yiğit Sağ (Ağ Geliştirme Ekibi)](https://github.com/yigitsag)
+- [Mohammed Aboubaker (Ağ Geliştirme Ekibi)](https://github.com/mohamedaaboubakeraboubaker-maker)
+
 
 🎓 **Akademik Danışman:** [Evrim Güler](https://github.com/evrimguler)
