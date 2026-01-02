@@ -48,7 +48,7 @@ Proje üç ana katmandan oluşmaktadır:
 
 ## <a name="kurulum"></a>⚙️ Kurulum
 ```python
-git clone https://github.com/kullanici_adi/proje_adi.git
+git clone https://github.com/eminabaz/QoS-Cok-Amacli-Rotalama
 cd proje_adi
 pip install -r requirements.txt
 ```
